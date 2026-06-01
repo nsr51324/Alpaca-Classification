@@ -1,0 +1,9 @@
+tensorflow>=2.15
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+pillow
+imblearn
+kagglehub
