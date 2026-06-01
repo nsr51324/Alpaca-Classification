@@ -71,7 +71,7 @@ Data preprocessing included:
 ## Confusion Matrix Example
 (Add your plotted confusion matrix image here)
 
-## ▶️ How to Run
+## How to Run
 ### 1) Install dependencies
 ```bash
 pip install -r requirements.txt
